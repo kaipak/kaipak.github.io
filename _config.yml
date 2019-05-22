@@ -1,4 +1,4 @@
-layout: stacked
+layout: sidebar
 style: dark
 
 plugins:
@@ -30,13 +30,6 @@ projects:
      - coursera-princeton-algorithms1
      - coursera-Duke-Statistics-with-R
      - kaipak.github.io
-     - kaggle-housing-prices
-  include:
-     - kaggle-sales-forecasting
-     - kaggle-MNIST
-     - kaggle-titanic
-     - project-euler
-     - xrsigproc
 
 social_media:
   # behance: your_username
