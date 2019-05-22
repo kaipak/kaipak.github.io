@@ -1,5 +1,5 @@
-layout: sidebar
-style: light
+layout: stacked
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -31,9 +31,7 @@ projects:
      - coursera-Duke-Statistics-with-R
      - kaipak.github.io
      - kaggle-housing-prices
-
   include:
-    projects:
      - kaggle-sales-forecasting
      - kaggle-MNIST
      - kaggle-titanic
