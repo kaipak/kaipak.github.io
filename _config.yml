@@ -30,6 +30,7 @@ projects:
      - coursera-princeton-algorithms1
      - coursera-Duke-Statistics-with-R
      - kaipak.github.io
+     - kaggle-housing-prices
 
   include:
     projects:
